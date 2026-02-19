@@ -9,5 +9,6 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=PiratikMr&layout=compact&theme=dark" alt="Top Langs" />
+  <img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=PiratikMr&layout=compact&theme=github_dark" height="195" alt="Top Langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PiratikMr&theme=github-dark&hide_border=true" height="195" alt="GitHub Streak" />
 </div>
