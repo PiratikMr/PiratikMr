@@ -9,5 +9,5 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=PiratikMr&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=PiratikMr&layout=compact&theme=dark" alt="Top Langs" />
 </div>
